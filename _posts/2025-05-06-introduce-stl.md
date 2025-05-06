@@ -1,7 +1,7 @@
 ---
 title: Sung Theate Line
 layout: post
-post-image: "/assets/images/fox_pic01.jpg"
+post-image: "../assets/images/fox_pic01.jpg"
 description: 극단 성시어라인의 홈페이지입니다. 본 페이지에서는 극단 성시어터라인의 창단 취지 및 연혁, 대표 작품을 포함하여 다양한 정보를 찾아볼 수 있습니다.  You can find information about Sung Theatre Line, such as its founding purpose and history, representative works, and awards history.  
 tags:
 - 극단
@@ -38,11 +38,11 @@ You can also quickly find the latest news about Sung Theatre Line on their [Inst
 Their representative works include *'What are you doing, Fox? If flowers bloom on the hill, let's play!'*, which presented Korean traditional instruments and games on stage with cutting-edge visuals, and *'Picture Play Created with Piano and Flute'*, which combined classical music with non-verbal theatre. Through such works, they have been evaluated as having elevated the standard of Korean children's theatre by a notch. Furthermore, since their founding, they have gained recognition for their artistic quality by producing numerous award-winning works at various festivals such as *the Seoul Theatre Festival*, *Geochang International Theatre Festival*, and * ASSITEJ Korea Seoul Children's Theatre Festival.*  
 In addition, they received the 'Seoul Metropolitan Government Commendation' in 2011 for their diverse talent-sharing activities including arts education and visiting cultural sharing programs.
 
-![공연_함진애비](/assets/images/ham_shadow.jpg)
+![공연_함진애비](../assets/images/ham_shadow.jpg)
 
 ### 극단 명칭<br>Theatre Company Name
 
-<img src="/assets/images/rogo_s.png" alt="극단 로고" style="float: left; margin-right: 10px;">
+<img src="../assets/images/rogo_s.png" alt="극단 로고" style="float: left; margin-right: 10px;">
 
 **성시어터라인 - 成視語攄囉人 - Sung Theatre Line**
 
@@ -56,7 +56,7 @@ When indicated in Chinese characters, it is written as '成視語攄囉人' by b
 
 ### 수상 경력<br>
 
-<img src="/assets/images/assitej.png" alt="아시테지 서울어린이 연극상" style="float: left; margin-right: 10px;">
+<img src="../assets/images/assitej.png" alt="아시테지 서울어린이 연극상" style="float: left; margin-right: 10px;">
 
 #### 서울어린이연극상
 ##### (사)국제아동청소년연극협회 - 아시테지 코리아(ASSITEJ Korea)  
@@ -68,7 +68,7 @@ When indicated in Chinese characters, it is written as '成視語攄囉人' by b
 제25회(2017) `무대예술상(박주원) - 무지개섬 이야기`
 ---
 
-<img src="/assets/images/seoul_nomi.jpeg" alt="서울연극제" style="float: left; margin-right: 10px;">
+<img src="../assets/images/seoul_nomi.jpeg" alt="서울연극제" style="float: left; margin-right: 10px;">
 
 #### 서울연극제
 ##### (사)서울연극협회 - 아시테지 코리아(ASSITEJ Korea)  
@@ -87,7 +87,7 @@ When indicated in Chinese characters, it is written as '成視語攄囉人' by b
 
 #### 서울어린이연극상
 ##### (사)국제아동청소년연극협회 - 아시테지 코리아(ASSITEJ Korea)  
-![서울어린이연극상](/assets/images/assitej.png)
+![서울어린이연극상](../assets/images/assitej.png)
 
 제 4회(1995) `극본상(김성제) - 이상한 나라의 두찌`  
 제 5회(1996) `음악상(김성제) - 달빛 왕자 두또르`  
