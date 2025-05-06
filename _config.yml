@@ -18,7 +18,7 @@ site-keywords: artistic intervention, Theatre for Young Audiences
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://jei-stl.imgix.net/fox_pic01.jpg
+heroimage: /assets/images/fox_pic01.jpg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: glennyyt@naver.com
@@ -37,10 +37,10 @@ spotify_username: /
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: sungtheatreline
 
 # Name of the Author
-author-name: theatreline
+author-name: STL
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
