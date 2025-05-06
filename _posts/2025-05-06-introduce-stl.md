@@ -54,13 +54,14 @@ When indicated in Chinese characters, it is written as '成視語攄囉人' by b
 
 ---
 
-### 수상 경력<br>
+
+### 수상 경력<br>Awards History
 
 ![연극제](../assets/images/winner.png)
 
 
-#### 서울어린이연극상
-##### (사)국제아동청소년연극협회 - 아시테지 코리아(ASSITEJ Korea)  
+#### 서울어린이연극상<br>Seoul Children's Theatre Awards
+##### (사)국제아동청소년연극협회 - 아시테지 코리아(ASSITEJ Korea)<br>ASSITEJ Korea (International Association of Theatre for Children and Young People Korea)  
 
 제 4회(1995) `극본상(김성제) - 이상한 나라의 두찌`  
 제 5회(1996) `음악상(김성제) - 달빛 왕자 두또르`  
@@ -68,33 +69,47 @@ When indicated in Chinese characters, it is written as '成視語攄囉人' by b
 제10회(2001) `3개 부문 석권` `최고인기상 | 극본상(김성제) | 연기상(고홍란) - 여우야 뭐하니? 동산에 꽃피면 나하고 놀자!`  
 제25회(2017) `무대예술상(박주원) - 무지개섬 이야기`
 
+4th (1995): Best Playwright (Kim Sung-je) -  Ducci in Wonderland  
+5th (1996): Best Music (Kim Sung-je) -  Prince Dduttor, the Moonlight Prince   
+6th (1997): Most Popular Play -  Dancing Puppy  
+10th (2001): Won in 3 categories - Most Popular Play | Best Playwright (Kim Sung-je) | Best Actor (Go Hong-ran) -  What are you doing, Fox? If flowers bloom on the hill, let's play!  
+25th (2017): Best Stage Design (Park Ju-won) -  Rainbow Island Story  
 ---
-#### 서울연극제
-##### (사)서울연극협회 - 아시테지 코리아(ASSITEJ Korea)  
+#### 서울연극제<br>Seoul Theatre Festival
+##### (사)서울연극협회 - 아시테지 코리아(ASSITEJ Korea)<br>Seoul Theatre Association - ASSITEJ Korea    
 
-제25회(2006) `신인연기상(김태경-본명:김현예) - 숙희, 돌아오다`
+제25회(2006): `신인연기상(김태경-본명:김현예) - 숙희, 돌아오다`
+
+25th(2006): Best New Actor (Kim Tae-kyung - Birth name: Kim Hyun-ye) -  Sukhee, Come Back
 
 ---
 
-#### KIFT 거창국제연극제
-##### 거창문화재단 
+#### KIFT 거창국제연극제<br>KIFT Geochang International Festival of Theatre
+##### 거창문화재단<br> Geochang Foundation for Arts and Culture  
 
 제17회(2005) `금상, 연기상(조주현) - 바다로 가는 성북행`  
 제19회(2007) `금상, 연기상(안성현) - 내안의곁`  
 
+17th(2005): Gold Prize, Best Actor (Jo Joo-hyun) -  Going to the Sea by Seongbuk Train
+19th(2007): Gold Prize, Best Actor (Ahn Sung-hyun) -  Nea_An_Ue_Khyeot
+
 ---
 
-#### 신춘문예
-##### 한국일보 
+#### 신춘문예<br>New Year's Literary Contest
+##### 한국일보<br>The Korea Times
 
 희곡부문 `김성제 - 동화동경`  
 
+Play Category: Kim Sung-je -  Donghwa Donggyeong
+
 ---
 
-#### 서울시 표창
-##### 서울시
+#### 서울시 표창<br>Seoul Metropolitan Government Commendation
+##### 서울시<br>Seoul Metropolitan Government 
 
 재능나눔 `극단 성시어터라인` 
+
+Talent Sharing _Sung Theatre Line
 
 ---
 
