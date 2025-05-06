@@ -12,7 +12,7 @@ tags:
 
 ---
 
-# 창단 취지･목표<br>Founding Mission & Objectives
+### 창단 취지･목표<br>Founding Mission & Objectives
 
 **극단 성시어터라인**은 모든 연령대의 관객을 대상으로 연극성, 생동감, 접근성이 조화롭게 어우러진 순수 오리지널 연극 작품을 지향합니다.
 내용적으로는 보편적이나 형식면에서는 새롭고, 또한 독창적이며 과감한 실험과 시도가 투영된 작품을 개발하고자 합니다.
@@ -26,40 +26,74 @@ You can also quickly find the latest news about Sung Theatre Line on their [Inst
 
 ---
 
-# 작품과 평가<br>Works & Evaluation
+### 작품과 평가<br>Works & Evaluation
 **"한국적 정서와 실험적 무대, 한국 아동극 수준을 한 단계 높인 극단"**  
 **"A Theatre Company that Elevated the Level of Korean Children's Theatre with Korean Sensibility and Experimental Stagecraft"**
 
 **극단 성시어터라인**은 뮤지컬등 다양한 장르에서 연극성, 예술성, 대중성있는 창작 공연을 만들기 위해 계속적인 실험과 다양한 무대 언어 개발에 심혈을 기울이고 있습니다.  
 대표작으로는 국악기와 전통 놀이를 최첨단 영상과 함께 무대에 펼쳐 보인 *'여우야 뭐하니? 동산에 꽃피면 나하고 놀자!'*와 클래식 음악을 넌버벌 연극과 접목시킨 *'피아노와 플릇으로 만든 그림 연극'* 등이 있으며 이와 같은 작품들로 우리나라 아동극의 수준을 한 단계 업그레이드 시켰다는 평가를 받고 있습니다.  
-또한, 창단 이후 *서울연극제*, *거창국제연극제*, *아시테지 서울 어린이연극상* 등에서 다수의 수상작을 내놓으며 예술성을 인정받아 왔습니다. 특히 2011에는 예술교육, 찾아가는 문화나눔 등의 다양한 재능나눔활동으로 ’서울시 표창’을 받기도 하였습니다.
+또한, 창단 이후 *서울연극제*, *거창국제연극제*, *아시테지 서울 어린이연극상* 등에서 다수의 수상작을 내놓으며 예술성을 인정받아 왔습니다. 특히 2011년에는 예술교육, 찾아가는 문화나눔 등의 다양한 재능나눔활동으로 ’서울시 표창’을 받기도 하였습니다.
 
 **Sung Theatre Line** continuously focuses on ongoing experimentation and the development of diverse stage languages to create original performances in various genres, including musicals, that possess theatricality, artistic merit, and accessibility.  
 Their representative works include *'What are you doing, Fox? If flowers bloom on the hill, let's play!'*, which presented Korean traditional instruments and games on stage with cutting-edge visuals, and *'Picture Play Created with Piano and Flute'*, which combined classical music with non-verbal theatre. Through such works, they have been evaluated as having elevated the standard of Korean children's theatre by a notch. Furthermore, since their founding, they have gained recognition for their artistic quality by producing numerous award-winning works at various festivals such as *the Seoul Theatre Festival*, *Geochang International Theatre Festival*, and * ASSITEJ Korea Seoul Children's Theatre Festival.*  
 In addition, they received the 'Seoul Metropolitan Government Commendation' in 2011 for their diverse talent-sharing activities including arts education and visiting cultural sharing programs.
-### After Installing the Requirements you can follow these guides:
-**For detailed install instructions have a look at the guide for your operating system.**
-* [macOS](https://jekyllrb.com/docs/installation/macos/){:target="_blank"}
-* [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/){:target="_blank"}
-* [Other Linux Distros](https://jekyllrb.com/docs/installation/other-linux/){:target="_blank"}
-* [Windows](https://jekyllrb.com/docs/installation/windows/){:target="_blank"}
 
-### Creating a new Jekyll site
-**We can create a new Jekyll site just by a simple command:**<br>
-> # `jekyll new my-site`
+![공연_함진애비](/assets/images/ham_shadow.jpg)
 
-Jekyll will create a new directory named as `my-site` which is customizable (i.e., you can change the name from `my-site` to anything you want for example `jekyll new brutus`).
+### 극단 명칭<br>Theatre Company Name
 
-### Changing into the Directory
-**We have to go inside the directory:**<br>
-> # `cd my-site`
+<img src="/assets/images/rogo_s.png" alt="극단 로고" style="float: left; margin-right: 10px;">
 
-Again, `my-site` is just a random name which is customizable.
+**성시어터라인 - 成視語攄囉人 - Sung Theatre Line**
 
-### Building the site and making it available on a local server
-> # `bundle exec jekyll serve`
+극단 명으로 사용되고 있는 **성시어터라인/成視語攄囉人/SUNG Theatre Line**은 成(이룰 성)과 영어 Theatre(연극) Line (시간을 두고 이어지는 일련의 사람들・사물들・사건들)의 합성입니다.  
+한자로 표기할 때는 ‘성시어터라인’, ‘SUNG theatre line’의 음을 빌어 ’成視語攄囉人’으로 표기합니다. 한자음은 그대로 성시어터라인으로 읽으며 ”말과 노랫가락으로 사람들에게 널리 펼치다”라는 의미로 극단의 연극 활동 이념을 담고 있습니다. 
 
-### Browsing your Jekyll site
-> # Browse to [`http://localhost:4000/`](http://localhost:4000/){:target="_blank"}
+The name used for the theatre company, **성시어터라인/成視語攄囉人/SUNG Theatre Line**, is a compound of the Chinese character 成 (meaning 'to achieve' or 'to accomplish'), the English word 'Theatre', and the English word 'Line' (referring to a series of people, things, or events extending over time).  
+When indicated in Chinese characters, it is written as '成視語攄囉人' by borrowing the sounds of ‘성시어터라인’ and ‘SUNG theatre line’. These Chinese characters are still read with the Korean pronunciation '성시어터라인', and they carry the meaning of "to spread widely to people through words and melodies," embodying the theatre company's philosophy for its theatrical activities.
 
-###### On encountering any problem while building and serving your Jekyll site you can consider visiting to the [troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems){:target="_blank"} page
+---
+
+### 수상 경력<br>
+
+<img src="/assets/images/assitej.png" alt="아시테지 서울어린이 연극상" style="float: left; margin-right: 10px;">
+
+#### 서울어린이연극상
+##### (사)국제아동청소년연극협회 - 아시테지 코리아(ASSITEJ Korea)  
+
+제 4회(1995) `극본상(김성제) - 이상한 나라의 두찌`  
+제 5회(1996) `음악상(김성제) - 달빛 왕자 두또르`  
+제 6회(1997) `최고인기상 - 춤추는 강아지`  
+제10회(2001) `3개 부문 석권` `최고인기상 | 극본상(김성제) | 연기상(고홍란) - 여우야 뭐하니? 동산에 꽃피면 나하고 놀자!`  
+제25회(2017) `무대예술상(박주원) - 무지개섬 이야기`
+---
+
+<img src="/assets/images/seoul_nomi.jpeg" alt="서울연극제" style="float: left; margin-right: 10px;">
+
+#### 서울연극제
+##### (사)서울연극협회 - 아시테지 코리아(ASSITEJ Korea)  
+
+제25회(2006) `신인연기상(김태경-본명:김현예) - 숙희, 돌아오다`  
+
+---
+
+#### KIFT 거창국제연극제
+##### 거창문화재단 
+
+제17회(2005) `금상, 연기상(조주현) - 바다로 가는 성북행`  
+제19회(2007) `금상, 연기상(안성현) - 내안의곁`  
+
+---
+
+#### 서울어린이연극상
+##### (사)국제아동청소년연극협회 - 아시테지 코리아(ASSITEJ Korea)  
+![서울어린이연극상](/assets/images/assitej.png)
+
+제 4회(1995) `극본상(김성제) - 이상한 나라의 두찌`  
+제 5회(1996) `음악상(김성제) - 달빛 왕자 두또르`  
+제 6회(1997) `최고인기상 - 춤추는 강아지`  
+제10회(2001) `3개 부문 석권` `최고인기상 | 극본상(김성제) | 연기상(고홍란) - 여우야 뭐하니? 동산에 꽃피면 나하고 놀자!`  
+제25회(2017) `무대예술상(박주원) - 무지개섬 이야기`
+
+
+# 왜?
