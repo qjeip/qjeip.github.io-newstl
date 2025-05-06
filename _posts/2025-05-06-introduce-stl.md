@@ -1,7 +1,7 @@
 ---
 title: Sung Theate Line
 layout: post
-post-image: ../assets/images/fox_pic01.jpg
+post-image: "../assets/images/fox_pic01.jpg"
 description: 극단 성시어라인의 홈페이지입니다. 본 페이지에서는 극단 성시어터라인의 창단 취지 및 연혁, 대표 작품을 포함하여 다양한 정보를 찾아볼 수 있습니다.  You can find information about Sung Theatre Line, such as its founding purpose and history, representative works, and awards history.  
 tags:
 - 극단
